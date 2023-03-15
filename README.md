@@ -1,2 +1,3 @@
-# media
-Media Repository
+# CMSW Media
+
+Media Repository for CMSW
